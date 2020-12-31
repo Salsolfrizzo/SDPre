@@ -1,3 +1,0 @@
-# SDPre
-
-Hello World.
